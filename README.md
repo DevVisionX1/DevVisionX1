@@ -3,9 +3,10 @@
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" alt="Icono de código" width="50">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="Icono de código" width="50">
     <span style="font-size: 1.5em; font-weight: bold;">codeMate AR</span>
 </div>
+
 
 
 
