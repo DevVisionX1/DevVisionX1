@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1 align="center">Hi, we are <a href="https://github.com/codeMateAR">codeMate AR</a> 👋</h1>
+  <h1 align="center">Hi, we are <a href="www.codeMateAR.com">codeMate AR</a> 👋</h1>
 </div>
 
 [![codeMate AR < >](https://img.shields.io/badge/codeMate%20AR-%3C%20%3E-blue)](#)
@@ -40,7 +40,7 @@
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/codeMateAR">
+  <a href="www.codeMateAR.com">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codeMateAR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codeMateAR&layout=compact&langs_count=8&theme=algolia"/>
   </a>
