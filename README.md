@@ -27,20 +27,11 @@
 
 <tr>
 <td width="50%">
-  <h3 align="center">Project Alpha</h3>
+  <h3 align="center">codeMate AR</h3>
   <div align="center">
-    <a href="https://github.com/codeMateAR/project-alpha" target="_blank">
+    <a href="www.codeMateAR.com" target="_blank">
       <img src="https://.jpg" width="400" alt="Project Alpha">
     </a>
-    <p>
-      <a href="https://github.com/codeMateAR/project-alpha" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-      <a href="https://youtu.be/" target="_blank">
-        <img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&color=c4302b">
-      </a>
-    </p>
-    <p>Web app for managing tasks and schedules using .NET Core and Blazor.</p>
   </div>
 </td>
 
