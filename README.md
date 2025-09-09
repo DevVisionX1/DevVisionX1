@@ -2,7 +2,11 @@
   <h1 align="center">Hi, we are <a href="https://github.com/codeMateAR">codeMate AR</a> 👋</h1>
 </div>
 
-<img src="https://.png" alt="codeMate AR Banner" width="100%">
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/3062/3062634.png" alt="Icono de código" width="50">
+    <span style="font-size: 1.5em; font-weight: bold;">codeMate AR</span>
+</div>
+
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@codeMateAR)
 [![GitHub followers](https://img.shields.io/github/followers/codeMateAR?style=social)](https://github.com/codeMateAR)
@@ -12,10 +16,10 @@
 
 ## 👋 About us
 
-- 👀 We are passionate about programming, web development and artificial intelligence.
-- 💻 Focused on Microsoft technologies: **C#**, **.NET**, and **SQL Server**.
+- 👀 We are passionate about programming, web development and AI.
+- 💻 Focused on a variety of technologies: SQL Server, SQLite3, C#, JavaScript, .NET, HTML/CSS, React, Node.js, Git and More.
 - 🌱 Currently developing internal and collaborative open-source projects.
-- 🤝 Open to contribute to web-based developments, .NET, Databases and more...
+- 🤝 Open to contribute to web-based developments, .NET, Databases, JS, Python and more...
 - 📫 Contact us at: **codeMateAR@gmail.com** or [YouTube](https://www.youtube.com/@codeMateAR)
 
 ---
