@@ -24,7 +24,7 @@
 
 ## 🚀 Projects
 
-<table>
+
 <tr>
 <td width="50%">
   <h3 align="center">Project Alpha</h3>
@@ -44,9 +44,9 @@
   </div>
 </td>
 
-</table>
 
----
+
+
 
 ## ⚙️ GitHub Analytics
 
