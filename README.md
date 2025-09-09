@@ -20,20 +20,6 @@
 - 🤝 Open to contribute to web-based developments, .NET, Databases, JS, Python and more...
 - 📫 Contact us at: **codeMateAR@gmail.com** or [YouTube](https://www.youtube.com/@codeMateAR)
 
----
-
-## 🚀 Projects
-
-
-<tr>
-<td width="50%">
-  <h3 align="left">codeMate AR</h3>
-  <div align="center">
-    <a href="www.codeMateAR.com" target="_blank">
-    </a>
-  </div>
-</td>
-<p>
 
 
 
