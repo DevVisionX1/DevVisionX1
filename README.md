@@ -20,8 +20,7 @@
 - 🤝 Open to contribute to web-based developments, .NET, Databases, JS, Python and more...
 - 📫 Contact us at: **codeMateAR@gmail.com** or [YouTube](https://www.youtube.com/@codeMateAR)
 
-
-
+---
 
 ## ⚙️ GitHub Analytics
 
