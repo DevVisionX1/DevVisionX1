@@ -27,7 +27,7 @@
 
 <tr>
 <td width="50%">
-  <h3 align="right">codeMate AR</h3>
+  <h3 align="left">codeMate AR</h3>
   <div align="center">
     <a href="www.codeMateAR.com" target="_blank">
     </a>
