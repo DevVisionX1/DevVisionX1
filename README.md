@@ -30,7 +30,6 @@
   <h3 align="center">codeMate AR</h3>
   <div align="center">
     <a href="www.codeMateAR.com" target="_blank">
-      <img src="https://.jpg" width="400" alt="Project Alpha">
     </a>
   </div>
 </td>
