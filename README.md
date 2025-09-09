@@ -44,24 +44,6 @@
   </div>
 </td>
 
-<td width="50%">
-  <h3 align="center">Project Beta</h3>
-  <div align="center">
-    <a href="https://github.com/codeMateAR/project-beta" target="_blank">
-      <img src="https://.jpg" width="400" alt="Project Beta">
-    </a>
-    <p>
-      <a href="https://github.com/codeMateAR/project-beta" target="_blank">
-        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-      <a href="https://youtu.be/" target="_blank">
-        <img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&color=c4302b">
-      </a>
-    </p>
-    <p>AI-powered chatbot built with .NET and integrated into web platforms.</p>
-  </div>
-</td>
-</tr>
 </table>
 
 ---
