@@ -2,10 +2,7 @@
   <h1 align="center">Hi, we are <a href="https://github.com/codeMateAR">codeMate AR</a> 👋</h1>
 </div>
 
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Icono de código" width="50">
-    <span style="font-size: 1.5em; font-weight: bold;">codeMate AR</span>
-</div>
+[![codeMate AR < >](https://img.shields.io/badge/codeMate%20AR-%3C%20%3E-blue)](#)
 
 
 
